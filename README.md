@@ -9,11 +9,13 @@ import {IteratorModule} from '%path_to_the_module%iterator_pipe.module';
 and in the NgModule decorator;
 
 @NgModule({
+
   imports: [
     ..
     ..
     IteratorModule,
     ..
+    
   ],
   
   And you are good to go. In app component template;
