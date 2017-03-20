@@ -5,7 +5,7 @@ Usage:
 
 To use it in a component, add iterator module to that components module
 
-For example if you want to use iterator in app component, just import iterator module like this;
+For example if you want to use iterator in app component, just import iterator module to app module like this;
 
 import {IteratorModule} from '%path_to_the_module%iterator_pipe.module';
 
